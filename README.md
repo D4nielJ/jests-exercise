@@ -2,9 +2,7 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 ![](https://img.shields.io/badge/Academic-blue)
-![](https://img.shields.io/badge/HTML-red)
 ![](https://img.shields.io/badge/JavaScript-yellow)
-![](https://img.shields.io/badge/SCSS-green)
 
 Application development for academic purposes.
 
@@ -12,9 +10,9 @@ Application development for academic purposes.
 ## Getting Started
 **Install**
 
-- `git clone https://github.com/D4nielJ/todo-list.git`
+- `git clone https://github.com/D4nielJ/jests-exercise.git`
 - `npm install`
-- `npm run start`
+- `npm run jest` or `npm run wjest` to play with Jest
   
 ## Authors
 
